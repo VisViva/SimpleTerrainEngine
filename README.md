@@ -1,6 +1,6 @@
 # Simple terrain engine
 
-Implemented terrain, camera, player, timer and console.
+Pure C++ and DirectX, no dependencies. Implemented terrain, camera, player, timer and console.
 
 Screenshots:
 
